@@ -1,1 +1,1 @@
-"New feature here!" 
+"This is a new feature" 
